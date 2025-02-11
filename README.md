@@ -5,7 +5,7 @@ This repository contains the code accompanying the paper:
 
 **"From Solvent Baths to Charge Paths: Deciphering Conductivity in PEDOT:TOS guided by Machine Learning"**
 
-Authors: Najmeh Zahabi, Ioannis Petsagkourakis, Juan Felipe Franco Gonzalez, Nicolas Rolland, Ali Beikmohammadi, Xianjie Liu, Mats Fahlman, Eleni Pavlopoulou, and Igor Zozoulenko.
+Authors: Najmeh Zahabi, Ioannis Petsagkourakis, Nicolas Rolland, Ali Beikmohammadi, Xianjie Liu, Mats Fahlman, Eleni Pavlopoulou, and Igor Zozoulenko.
 
 ## Description
 This project employs machine learning techniques to analyze and predict the conductivity behavior of PEDOT:TOS, a conductive polymer. The code is structured to:
