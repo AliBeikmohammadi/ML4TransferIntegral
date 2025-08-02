@@ -142,6 +142,3 @@ Released under the **MIT License**.
 
 For questions, open an issue or contact the authors directly.
 
-## Contact
-For any questions or issues, please contact the authors or open an issue in this repository.
-
